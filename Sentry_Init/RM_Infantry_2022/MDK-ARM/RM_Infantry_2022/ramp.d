@@ -1,0 +1,11 @@
+rm_infantry_2022\ramp.o: ..\GRWML\Middlewares\Algorithm\Ramp.cpp
+rm_infantry_2022\ramp.o: ..\GRWML\Middlewares\Algorithm\Ramp.h
+rm_infantry_2022\ramp.o: D:\keil\ARM\ARMCC\Bin\..\include\stdint.h
+rm_infantry_2022\ramp.o: ..\GRWML\Middlewares\Algorithm\User_Math.h
+rm_infantry_2022\ramp.o: ..\Drivers\CMSIS\DSP\Include\arm_math.h
+rm_infantry_2022\ramp.o: ../Drivers/CMSIS/Include/core_cm4.h
+rm_infantry_2022\ramp.o: ../Drivers/CMSIS/Include/cmsis_version.h
+rm_infantry_2022\ramp.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+rm_infantry_2022\ramp.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+rm_infantry_2022\ramp.o: D:\keil\ARM\ARMCC\Bin\..\include\string.h
+rm_infantry_2022\ramp.o: D:\keil\ARM\ARMCC\Bin\..\include\math.h

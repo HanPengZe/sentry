@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "ist8310driver_middleware.h": "c",
+        "ist8310driver.h": "c",
+        "ins_task.h": "c",
+        "bmi088driver.h": "c",
+        "bsp_spi.h": "c",
+        "calibrate_task.h": "c",
+        "bmi088middleware.h": "c",
+        "buzzer.h": "c",
+        "delay.h": "c",
+        "bsp_flash.h": "c",
+        "main.h": "c",
+        "imu.h": "c",
+        "control_dr16.h": "c",
+        "grwml.h": "c",
+        "drivers.h": "c",
+        "control_gimbal.h": "c",
+        "stdint.h": "c",
+        "system_datapool.h": "c",
+        "system_tasks.h": "c",
+        "xutility": "cpp",
+        "cmath": "cpp",
+        "bsp_dwt.h": "c",
+        "quaternionekf.h": "c",
+        "bmi088reg.h": "c",
+        "cmsis_os.h": "c",
+        "mahonyahrs.h": "c",
+        "math.h": "c",
+        "cstdlib": "cpp"
+    }
+}

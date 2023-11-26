@@ -1,0 +1,25 @@
+{
+    "files.associations": {
+        "bsp_can.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "stm32f4xx_hal_conf.h": "c",
+        "system_datapool.h": "c",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "xmemory0": "cpp",
+        "xtr1common": "cpp",
+        "xutility": "cpp",
+        "dji_aimu.h": "c",
+        "cmath": "c",
+        "user_math.h": "c",
+        "bsp_flash.h": "c",
+        "usart.h": "c",
+        "bsp_pvd.h": "c",
+        "cstdlib": "cpp",
+        "initializer_list": "cpp"
+    },
+    "C_Cpp.dimInactiveRegions": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "C_Cpp.intelliSenseEngineFallback": "Enabled",
+}
